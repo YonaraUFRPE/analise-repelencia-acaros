@@ -1,0 +1,13 @@
+"tempo_h","repeticao","tratado","nao_tratado","soma_linha","flag_maior_que_30"
+1,1,25,33,58,TRUE
+1,2,23,38,61,TRUE
+3,1,26,34,60,TRUE
+3,2,24,43,67,TRUE
+6,1,26,38,64,TRUE
+6,2,25,43,68,TRUE
+12,1,26,38,64,TRUE
+12,2,25,43,68,TRUE
+24,1,26,43,69,TRUE
+24,2,25,39,64,TRUE
+48,1,27,39,66,TRUE
+48,2,25,43,68,TRUE
